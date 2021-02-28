@@ -1,0 +1,185 @@
+body{
+    color: white;
+    margin: 0;
+    background-image: url(https://previews.123rf.com/images/bananyakosensei/bananyakosensei1904/bananyakosensei190400056/123194118-vector-technology-background-glowing-light-stripes-green-matrix-data-flow-numblers-.jpg);
+}
+
+h1{
+    font-size: 4rem;
+    font-style: italic;
+    display: inline;
+    letter-spacing: 6px;
+}
+
+h2{
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+h3{
+    text-align: center;
+    font-size: 2rem;
+}
+
+hr{
+    width: 60%;
+    margin-top: 50px;
+    height: 1px;
+    background-color: #0d3;
+    border: transparent;
+}
+
+p{
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+td{
+    width: 150px;
+}
+
+.ponude1{
+    padding: 20px;
+    width: 50%;
+    margin: 50px auto 20px 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+.ponude1:hover{
+    background-color: #0d3;
+}
+
+.ponude2{
+    padding: 20px;
+    width: 50%;
+    margin: 50px 100px 20px auto;
+    text-align: right;
+    line-height: 2;
+}
+
+.ponude2:hover{
+    background-color: #0d3;
+}
+
+.slika1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.slika2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.naslov{
+    width: 1000px;
+    margin: auto;
+}
+
+.ikona{
+    display: inline;
+    height: 70px;
+    margin-right: 10px;
+}
+
+.opis{
+    font-size: 1.5rem;
+    padding: 0 20%;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.top{
+    position: relative;
+    color: black;
+    bottom: 10px;
+    background-color: #0d3;
+    padding: 50px;
+    margin-top: 0;
+}
+
+.middle{
+    padding: 10px;
+    margin: 0 150px;
+    background-color: black;
+}
+
+.bottom{
+    background-color: #0d3;
+    padding: 10px;
+}
+
+.home{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+
+.kuca{
+    font-size: 1.4rem;
+    color: black;
+    display: inline;
+    position: relative;
+    bottom: 4px;
+}
+
+.kucaslika{
+    width: 30px;
+}
+
+.onama{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.kontakt{
+    margin: 20px auto;
+    text-align: center;
+}
+
+.faq{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.middlefaq{
+    padding: 10px;
+    margin: 0 150px;
+    background-color: black;
+    text-align: center;
+}
+
+.proizvod{
+    position: relative;
+    height: 200px;
+    padding: 30px 0;
+}
+
+.proizvod:hover{
+    background-color: #0d3;
+}
+
+.slike{
+    width: 15%;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+
+.nazivi{
+    display: inline;
+    position: absolute;
+    margin-top: 0;
+}
+
+.cijene{
+    display: inline;
+    position: absolute;
+}
